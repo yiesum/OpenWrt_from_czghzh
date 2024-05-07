@@ -1,6 +1,6 @@
 name: IPQ60XX-WIFI(EMMC)
 
-#on:
+on:
 #  workflow_dispatch:
 #  schedule:
 #    - cron: 0 19 * * *
