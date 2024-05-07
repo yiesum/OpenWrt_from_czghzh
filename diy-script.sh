@@ -30,7 +30,7 @@ function git_sparse_clone() {
 }
 
 # 添加额外插件
-git clone https://github.com/kiddin9/openwrt-packages.git
+#git clone https://github.com/kiddin9/openwrt-packages.git
 # git_sparse_clone master https://github.com/syb999/openwrt-19.07.1 package/network/services/msd_lite
 
 # Themes
